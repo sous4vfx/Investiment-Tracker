@@ -33,9 +33,14 @@ pip install yfinance pyTelegramBotAPI
    git clone https://github.com/sous4vfx/Investiment-Tracker
    cd Investiment-Tracker
    ```
-2. Run the script:
+2. Execute o script:
    ```bash
-   python bot-pt.py or python bot-en.py
+   python bot-pt.py
+   ```
+   or
+   
+   ```bash
+   python bot-en.py
    ```
 
 ---
