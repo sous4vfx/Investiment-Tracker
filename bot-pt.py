@@ -1,7 +1,7 @@
 import yfinance as yf
 import time
 import threading
-import telebot #AINDA NAO USANDO
+import telebot 
 import json
 import os
 from datetime import datetime
