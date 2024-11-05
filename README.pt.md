@@ -36,7 +36,7 @@ pip install yfinance pyTelegramBotAPI
 
 2. Execute o script:
    ```bash
-   python bot.py
+   python bot-pt.py or python bot-en.py
    ```
 
 ---
