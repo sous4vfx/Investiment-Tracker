@@ -37,7 +37,7 @@ pip install yfinance pyTelegramBotAPI
    ```bash
    python bot-pt.py
    ```
-   or
+   ou
    
    ```bash
    python bot-en.py
