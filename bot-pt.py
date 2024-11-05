@@ -121,7 +121,7 @@ def agendar_notf():
     2. Clique em "Iniciar" e envie o comando /getgroupid.
     3. Crie um grupo e adicione o bot - [ @myidbot ].
     4. Volte ao bot e anote o ID do grupo que ele fornecer.
-    5. Adicione o bot [ NTFInvestHelp_bot ] ao grupo.
+    5. Adicione o bot [ InvestimentTracker_Bot ] ao grupo.
     """)
 
         configurar_grupo()
