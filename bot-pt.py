@@ -7,7 +7,7 @@ import os
 from datetime import datetime
 
 
-TOKEN = '7704860185:AAFaA5eYM4fd8Qbd8q75PLUC_vzJdL-bf-4'
+TOKEN = '7907914184:AAHYN2adVqtHQpyhTu5Dsviw1i9w23QqcB0'
 bot = telebot.TeleBot(TOKEN)
 group_id = None
 
