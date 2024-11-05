@@ -30,8 +30,8 @@ pip install yfinance pyTelegramBotAPI
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stock-notification-bot.git
-   cd stock-notification-bot
+   git clone https://github.com/sous4vfx/Investiment-Tracker
+   cd Investiment-Tracker
    ```
 2. Run the script:
    ```bash
