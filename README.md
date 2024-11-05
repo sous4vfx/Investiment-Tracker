@@ -1,4 +1,4 @@
-```markdown
+
 # 📈 Bot de Notificação de Ações para Telegram
 
 Bem-vindo ao **Bot de Notificação de Ações**! Esse bot fornece atualizações em tempo real sobre preços de ações, ajudando você a manter-se informado sobre seus investimentos diretamente no Telegram.
@@ -10,39 +10,6 @@ Bem-vindo ao **Bot de Notificação de Ações**! Esse bot fornece atualizaçõe
 - **Notificações de Lucro e Prejuízo**: Veja seus ganhos ou perdas potenciais calculados com base no preço de compra.
 - **Metas de Preço**: Defina metas de preço para ações e receba notificações quando forem atingidas.
 - **Persistência de Dados**: As configurações são salvas localmente para referência futura.
-
----
-
-## 🚀 Começando
-
-### Pré-requisitos
-Certifique-se de ter o Python 3.x instalado junto com as seguintes bibliotecas:
-- `yfinance`
-- `telebot`
-- `json`
-- `os`
-
-Para instalar as dependências, execute:
-```bash
-pip install yfinance pyTelegramBotAPI
-```
-
-### Instalação
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/bot-notificacao-acoes.git
-   cd bot-notificacao-acoes
-   ```
-
-2. Salve o **Token do Bot do Telegram** na variável `TOKEN` do script:
-   ```python
-   TOKEN = 'SEU_TOKEN_DO_BOT_TELEGRAM'
-   ```
-
-3. Execute o script:
-   ```bash
-   python bot.py
-   ```
 
 ---
 
