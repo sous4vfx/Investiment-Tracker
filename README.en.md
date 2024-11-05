@@ -1,106 +1,106 @@
 
-# 📈 Bot de Notificação de Ações para Telegram
+# 📈 Stock Notification Bot for Telegram
 
-Bem-vindo ao **Bot de Notificação de Ações**! Esse bot fornece atualizações em tempo real sobre preços de ações, ajudando você a manter-se informado sobre seus investimentos diretamente no Telegram.
-
----
-
-## 📋 Funcionalidades
-- **Monitoramento de Ações**: Configure o bot para acompanhar ações específicas e receba atualizações de preço em intervalos definidos.
-- **Notificações de Lucro e Prejuízo**: Veja seus ganhos ou perdas potenciais calculados com base no preço de compra.
-- **Metas de Preço**: Defina metas de preço para ações e receba notificações quando forem atingidas.
-- **Persistência de Dados**: As configurações são salvas localmente para referência futura.
+Welcome to the **Stock Notification Bot**! This bot provides real-time updates on stock prices, helping you stay informed about your investments directly through Telegram.
 
 ---
 
-## 🚀 Começando
+## 📋 Features
+- **Stock Monitoring**: Configure the bot to track specific stocks, and receive price updates at set intervals.
+- **Profit and Loss Notifications**: See your potential gains or losses calculated based on your input price.
+- **Price Targets**: Set specific price goals for stocks, and receive notifications when these are met.
+- **Persistent Data**: Configurations are saved locally for future reference.
 
-### Pré-requisitos
-Certifique-se de ter o Python 3.x instalado junto com as seguintes bibliotecas:
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+Ensure you have Python 3.x installed along with the following libraries:
 - `yfinance`
 - `telebot`
 - `json`
 - `os`
 
-Para instalar as dependências, execute:
+To install the dependencies, run:
 ```bash
 pip install yfinance pyTelegramBotAPI
 ```
 
-### Instalação
-1. Clone o repositório:
+### Installation
+1. Clone the repository:
    ```bash
-   git clone https://github.com/seuusuario/bot-notificacao-acoes.git
-   cd bot-notificacao-acoes
+   git clone https://github.com/yourusername/stock-notification-bot.git
+   cd stock-notification-bot
    ```
 
-2. Salve o **Token do Bot do Telegram** na variável `TOKEN` do script:
+2. Save your **Telegram Bot Token** in the `TOKEN` variable in the script:
    ```python
-   TOKEN = 'SEU_TOKEN_DO_BOT_TELEGRAM'
+   TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
    ```
 
-3. Execute o script:
+3. Run the script:
    ```bash
    python bot.py
    ```
 
 ---
 
-## 🛠 Configurando o ID do Grupo no Telegram
+## 🛠 Configuring the ID for Telegram Group
 
-Para começar a receber notificações, é necessário configurar o bot em seu grupo do Telegram.
+To start receiving notifications, you need to configure the bot in your Telegram group.
 
-1. **Obtenha o ID do Chat**:
-   - Use [MyIDBot](https://t.me/myidbot). Inicie o bot e envie o comando `/getgroupid` para obter o ID do grupo.
+1. **Get the Chat ID**:
+   - Use [MyIDBot](https://t.me/myidbot). Start the bot and send the command `/getgroupid` to get your group ID.
 
-2. **Adicione Nosso Bot ao Grupo**:
-   - Adicione [NTFInvestHelp_bot](https://t.me/NTFInvestHelp_bot) ao grupo onde você deseja receber notificações.
+2. **Add Our Bot to Your Group**:
+   - Add [NTFInvestHelp_bot](https://t.me/NTFInvestHelp_bot) to the group where you want to receive notifications.
 
-3. **Insira o ID do Grupo no Script**:
-   - Quando solicitado, insira o ID do grupo ou defina manualmente modificando a variável `group_id` no arquivo `DATA.json`.
-
----
-
-## 💡 Como Usar
-
-### Painel Principal
-
-- Execute `python bot.py` e utilize o menu da interface:
-  - **Opção 1**: Adicionar notificações de ações.
-  - **Opção 2**: Gerenciar notificações (listar, adicionar, remover).
-  - **Opção 3**: Configurar e acompanhar metas de preço.
-  - **Opção 4**: Configurar ou atualizar o ID do grupo do Telegram.
-
-### Gerenciando Notificações
-
-1. **Adicionando uma Notificação**:
-   - Insira o símbolo da ação, bolsa, preço pago, quantidade e intervalo de notificações.
-
-2. **Removendo Notificações**:
-   - Liste as notificações existentes e remova pelo ID.
-
-### Gerenciando Metas
-
-1. **Configurar Meta**:
-   - Insira o símbolo da ação, valor desejado e uma nota de alerta.
-
-2. **Remover Meta**:
-   - Liste as metas atuais e exclua pelo ID.
+3. **Input the Group ID in the Script**:
+   - When prompted, input the group ID or set it manually by modifying the `group_id` variable in the `DATA.json` file.
 
 ---
 
-## 👥 Créditos
+## 💡 How to Use
 
-Este projeto foi desenvolvido e mantido por:
+### Main Panel
 
-- [Seu Perfil do GitHub](https://github.com/seuusuario)
-- [Nome do Colaborador](https://github.com/colaboradorusuario)
+- Run `python bot.py` and use the console menu:
+  - **Option 1**: Add stock notifications.
+  - **Option 2**: Manage notifications (list, add, remove).
+  - **Option 3**: Configure and track price targets.
+  - **Option 4**: Set up or update the Telegram group ID.
 
-Sinta-se à vontade para contribuir ou relatar problemas no GitHub!
+### Managing Notifications
+
+1. **Adding a Notification**:
+   - Enter the stock symbol, exchange, paid price, quantity, and notification interval.
+
+2. **Removing Notifications**:
+   - List existing notifications and remove by ID.
+
+### Managing Targets
+
+1. **Set Up a Target**:
+   - Input a stock symbol, desired price, and a note for the alert.
+
+2. **Remove a Target**:
+   - List current targets and delete by ID.
 
 ---
 
-## 📌 Versão Atual
+## 👥 Credits
 
-- **Versão**: 1.0
+This project was developed and maintained by:
+
+- [Your GitHub Profile](https://github.com/yourusername)
+- [Contributor Name](https://github.com/contributorusername)
+
+Feel free to contribute or report issues on GitHub!
+
+---
+
+## 📌 Current Version
+
+- **Version**: 1.0
 ```
