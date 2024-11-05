@@ -117,7 +117,7 @@ def schedule_notification():
     2. Click "Start" and send the command /getgroupid.
     3. Create a group and add the bot - [ @myidbot ].
     4. Return to the bot and note the group ID it provides.
-    5. Add the bot [ NTFInvestHelp_bot ] to the group.
+    5. Add the bot [ InvestimentTracker_Bot ] to the group.
     """)
 
         configure_group()
