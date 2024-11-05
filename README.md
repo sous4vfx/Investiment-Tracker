@@ -95,6 +95,6 @@ Sinta-se à vontade para contribuir ou relatar problemas no GitHub!
 ---
 
 ## 📌 Versão Atual
-
-- **Versão**: 1.0
+```
+- Versão: 1.0
 ```
