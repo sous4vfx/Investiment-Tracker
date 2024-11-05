@@ -34,12 +34,7 @@ pip install yfinance pyTelegramBotAPI
    cd bot-notificacao-acoes
    ```
 
-2. Salve o **Token do Bot do Telegram** na variável `TOKEN` do script:
-   ```python
-   TOKEN = 'SEU_TOKEN_DO_BOT_TELEGRAM'
-   ```
-
-3. Execute o script:
+2. Execute o script:
    ```bash
    python bot.py
    ```
