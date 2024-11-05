@@ -33,13 +33,7 @@ pip install yfinance pyTelegramBotAPI
    git clone https://github.com/yourusername/stock-notification-bot.git
    cd stock-notification-bot
    ```
-
-2. Save your **Telegram Bot Token** in the `TOKEN` variable in the script:
-   ```python
-   TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
-   ```
-
-3. Run the script:
+2. Run the script:
    ```bash
    python bot.py
    ```
