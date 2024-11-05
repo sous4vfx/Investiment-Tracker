@@ -48,7 +48,7 @@ To start receiving notifications, you need to configure the bot in your Telegram
    - Use [MyIDBot](https://t.me/myidbot). Start the bot and send the command `/getgroupid` to get your group ID.
 
 2. **Add Our Bot to Your Group**:
-   - Add [NTFInvestHelp_bot](https://t.me/NTFInvestHelp_bot) to the group where you want to receive notifications.
+   - Add [InvestimentTracker_Bot](https://t.me/InvestimentTracker_Bot) to the group where you want to receive notifications.
 
 3. **Input the Group ID in the Script**:
    - When prompted, input the group ID or set it manually by modifying the `group_id` variable in the `DATA.json` file.
