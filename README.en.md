@@ -93,8 +93,8 @@ To start receiving notifications, you need to configure the bot in your Telegram
 
 This project was developed and maintained by:
 
-- [Your GitHub Profile](https://github.com/yourusername)
-- [Contributor Name](https://github.com/contributorusername)
+- [Sousa](https://github.com/sous4vfx)
+- [Marcus](https://github.com/MarcusLopesDEV)
 
 Feel free to contribute or report issues on GitHub!
 
