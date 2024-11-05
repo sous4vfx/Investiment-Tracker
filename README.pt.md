@@ -49,7 +49,7 @@ Para começar a receber notificações, é necessário configurar o bot em seu g
    - Use [MyIDBot](https://t.me/myidbot). Inicie o bot e envie o comando `/getgroupid` para obter o ID do grupo.
 
 2. **Adicione Nosso Bot ao Grupo**:
-   - Adicione [NTFInvestHelp_bot](https://t.me/NTFInvestHelp_bot) ao grupo onde você deseja receber notificações.
+   - Adicione [InvestimentTracker_Bot](https://t.me/InvestimentTracker_Bot) ao grupo onde você deseja receber notificações.
 
 3. **Insira o ID do Grupo no Script**:
    - Quando solicitado, insira o ID do grupo ou defina manualmente modificando a variável `group_id` no arquivo `DATA.json`.
