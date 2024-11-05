@@ -93,8 +93,8 @@ Para começar a receber notificações, é necessário configurar o bot em seu g
 
 Este projeto foi desenvolvido e mantido por:
 
-- [Seu Perfil do GitHub](https://github.com/seuusuario)
-- [Nome do Colaborador](https://github.com/colaboradorusuario)
+- [Sousa](https://github.com/sous4vfx)
+- [Marcus](https://github.com/MarcusLopesDEV)
 
 Sinta-se à vontade para contribuir ou relatar problemas no GitHub!
 
