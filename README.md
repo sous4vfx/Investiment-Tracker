@@ -1,2 +1,2 @@
 # Investiment-Tracker
-Investiment Tracker - [ v1.1]  - (Telegram , Python)
+Investiment Tracker - [v1.0]  - (Telegram , Python)
