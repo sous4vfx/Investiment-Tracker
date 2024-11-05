@@ -1,4 +1,3 @@
-Here's a clear and visually appealing `README.md` file in both English and Portuguese for your GitHub project, formatted with Markdown to include emojis and structure:
 
 ---
 
