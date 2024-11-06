@@ -1,5 +1,6 @@
 # Arquivos personalizados (TOKEN-BOT)
 token
+echo "token" >> .gitignore
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
