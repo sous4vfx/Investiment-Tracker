@@ -7,7 +7,7 @@ import os
 from datetime import datetime
 from dotenv import load_dotenv
 
-load_dotenv('token')
+load_dotenv()
 
 TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
 bot = telebot.TeleBot(TOKEN)
