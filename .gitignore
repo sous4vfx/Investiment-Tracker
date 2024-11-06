@@ -1,3 +1,1 @@
-# Arquivos personalizados (TOKEN-BOT)
-token.env
-echo "token" >> .gitignore
+
