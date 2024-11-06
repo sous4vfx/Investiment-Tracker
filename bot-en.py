@@ -6,7 +6,7 @@ import json
 import os
 from datetime import datetime
 
-TOKEN = '7907914184:AAHYN2adVqtHQpyhTu5Dsviw1i9w23QqcB0'
+TOKEN = '#'
 bot = telebot.TeleBot(TOKEN)
 group_id = None
 
