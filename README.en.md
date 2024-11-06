@@ -21,6 +21,7 @@ Ensure you have Python 3.x installed along with the following libraries:
 - `telebot`
 - `json`
 - `os`
+- `dotenv`
 
 To install the dependencies, run:
 ```bash
