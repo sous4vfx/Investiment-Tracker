@@ -1,5 +1,5 @@
 # Arquivos personalizados (TOKEN-BOT)
-token
+token.env
 echo "token" >> .gitignore
 
 # Byte-compiled / optimized / DLL files
