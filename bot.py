@@ -2,11 +2,14 @@ import yfinance as yf
 import time
 import threading
 import telebot 
-import json
+import jsonhttps://github.com/sous4vfx/Investiment-Tracker/blob/main/bot.py
 import os
 from datetime import datetime
+from dotenv import load_dotenv
 
-TOKEN = "TELEGRAM_TOKEN_BOT"
+load_dotenv()
+
+TOKEN = os.getenv('TOKEN')
 bot = telebot.TeleBot(TOKEN)
 group_id = None
 
