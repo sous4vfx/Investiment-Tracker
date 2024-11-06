@@ -42,13 +42,7 @@ pip install yfinance pyTelegramBotAPI python-dotenv
    ```bash
    python bot-en.py
    ```
-### Environment Configuration
-1. Copy the `.env.example` file to `.env`:
-
-   ```bash
-   cp .env.example .env
-
----
+   
 ---
 
 ## 🛠 Configuring the ID for Telegram Group
