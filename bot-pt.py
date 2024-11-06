@@ -5,9 +5,11 @@ import telebot
 import json
 import os
 from datetime import datetime
+from dotenv import load_dotenv
 
+load_dotenv('token')
 
-TOKEN = '#'
+TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
 bot = telebot.TeleBot(TOKEN)
 group_id = None
 
