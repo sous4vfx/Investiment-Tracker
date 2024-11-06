@@ -3,6 +3,8 @@
 
 Welcome to the **Stock Notification Bot**! This bot provides real-time updates on stock prices, helping you stay informed about your investments directly through Telegram.
 
+![ezgif com-crop](https://github.com/user-attachments/assets/2a240e2a-17b2-4352-bd25-3bb15816e4ba)
+
 ---
 
 ## 📋 Features
