@@ -2,7 +2,7 @@ import yfinance as yf
 import time
 import threading
 import telebot 
-import jsonhttps://github.com/sous4vfx/Investiment-Tracker/blob/main/bot.py
+import json
 import os
 from datetime import datetime
 from dotenv import load_dotenv
