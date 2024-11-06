@@ -35,14 +35,9 @@ pip install yfinance pyTelegramBotAPI python-dotenv
    ```
 2. Execute o script:
    ```bash
-   python bot-pt.py
+   python bot.py
    ```
-   ou
-   
-   ```bash
-   python bot-en.py
-   ```
-   
+
 ---
 
 ## 🛠 Configurando o ID do Grupo no Telegram
