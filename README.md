@@ -21,11 +21,10 @@ Certifique-se de ter o Python 3.x instalado junto com as seguintes bibliotecas:
 - `telebot`
 - `json`
 - `os`
-- `dotenv`
 
 Para instalar as dependências, execute:
 ```bash
-pip install yfinance pyTelegramBotAPI python-dotenv
+pip install yfinance pyTelegramBotAPI
 ```
 
 ### Instalação
