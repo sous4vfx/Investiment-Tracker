@@ -5,10 +5,14 @@ import telebot
 import json
 import os
 from datetime import datetime
+from dotenv import load_dotenv
 
-TOKEN = '#'
+load_dotenv('token')
+
+TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
 bot = telebot.TeleBot(TOKEN)
 group_id = None
+
 
 configured_stocks = []
 goals = []
