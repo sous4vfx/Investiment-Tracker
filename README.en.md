@@ -33,7 +33,7 @@ pip install yfinance pyTelegramBotAPI python-dotenv
    git clone https://github.com/sous4vfx/Investiment-Tracker
    cd Investiment-Tracker
    ```
-2. Execute o script:
+2. Run the script:
    ```bash
    python bot-pt.py
    ```
@@ -42,7 +42,13 @@ pip install yfinance pyTelegramBotAPI python-dotenv
    ```bash
    python bot-en.py
    ```
+### Environment Configuration
+1. Copy the `.env.example` file to `.env`:
 
+   ```bash
+   cp .env.example .env
+
+---
 ---
 
 ## 🛠 Configuring the ID for Telegram Group
