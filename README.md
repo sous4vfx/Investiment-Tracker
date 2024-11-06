@@ -3,6 +3,8 @@
 
 Bem-vindo ao **Bot de Notificação de Ações**! Esse bot fornece atualizações em tempo real sobre preços de ações, ajudando você a manter-se informado sobre seus investimentos diretamente no Telegram.
 
+![ezgif com-crop](https://github.com/user-attachments/assets/2a240e2a-17b2-4352-bd25-3bb15816e4ba)
+
 ---
 
 ## 📋 Funcionalidades
