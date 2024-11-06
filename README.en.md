@@ -35,12 +35,7 @@ pip install yfinance pyTelegramBotAPI python-dotenv
    ```
 2. Run the script:
    ```bash
-   python bot-pt.py
-   ```
-   or
-   
-   ```bash
-   python bot-en.py
+   python bot.py
    ```
    
 ---
