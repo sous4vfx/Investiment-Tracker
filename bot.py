@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-TOKEN = os.getenv('TOKEN')
+TOKEN = 'TOKEN'
 bot = telebot.TeleBot(TOKEN)
 group_id = None
 
